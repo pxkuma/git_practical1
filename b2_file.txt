@@ -5,3 +5,5 @@ Hey
 Removed
 
 Done
+
+This is B1 branch but file in it named as b2.
